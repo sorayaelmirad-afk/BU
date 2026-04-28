@@ -1,0 +1,43 @@
+# Data Manipulation & Science
+pandas
+numpy
+scipy
+pyarrow
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Web & Apps
+streamlit
+# requests
+# flask
+# fastapi
+
+# Documents & Reports
+openpyxl
+reportlab
+fpdf2
+python-docx
+
+# Utilities
+tqdm
+ipykernel
+ipython
+jupyter
+
+# ML
+scikit-learn
+xgboost
+
+
+# --- Deep Learning (Pick one, or both to explore) ---
+#torch
+#tensorflow
+#keras
+
+# --- Specialized AI ---
+#transformers
+#opencv-python
+#langchain
